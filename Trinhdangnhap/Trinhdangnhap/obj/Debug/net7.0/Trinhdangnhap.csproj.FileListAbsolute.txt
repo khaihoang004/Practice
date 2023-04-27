@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\Trinhdangnhap\Trinhdangnhap\bin\Debug\net7.0\Trinhdangnhap.exe
+C:\Users\PC\source\repos\Trinhdangnhap\Trinhdangnhap\bin\Debug\net7.0\Trinhdangnhap.deps.json
+C:\Users\PC\source\repos\Trinhdangnhap\Trinhdangnhap\bin\Debug\net7.0\Trinhdangnhap.runtimeconfig.json
+C:\Users\PC\source\repos\Trinhdangnhap\Trinhdangnhap\bin\Debug\net7.0\Trinhdangnhap.dll
+C:\Users\PC\source\repos\Trinhdangnhap\Trinhdangnhap\bin\Debug\net7.0\Trinhdangnhap.pdb
+C:\Users\PC\source\repos\Trinhdangnhap\Trinhdangnhap\obj\Debug\net7.0\Trinhdangnhap.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Trinhdangnhap\Trinhdangnhap\obj\Debug\net7.0\Trinhdangnhap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Trinhdangnhap\Trinhdangnhap\obj\Debug\net7.0\Trinhdangnhap.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Trinhdangnhap\Trinhdangnhap\obj\Debug\net7.0\Trinhdangnhap.AssemblyInfo.cs
+C:\Users\PC\source\repos\Trinhdangnhap\Trinhdangnhap\obj\Debug\net7.0\Trinhdangnhap.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Trinhdangnhap\Trinhdangnhap\obj\Debug\net7.0\Trinhdangnhap.dll
+C:\Users\PC\source\repos\Trinhdangnhap\Trinhdangnhap\obj\Debug\net7.0\refint\Trinhdangnhap.dll
+C:\Users\PC\source\repos\Trinhdangnhap\Trinhdangnhap\obj\Debug\net7.0\Trinhdangnhap.pdb
+C:\Users\PC\source\repos\Trinhdangnhap\Trinhdangnhap\obj\Debug\net7.0\Trinhdangnhap.genruntimeconfig.cache
+C:\Users\PC\source\repos\Trinhdangnhap\Trinhdangnhap\obj\Debug\net7.0\ref\Trinhdangnhap.dll
